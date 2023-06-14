@@ -37,3 +37,5 @@ C:\laragon\www\M2\Delivery\Web.API\obj\Debug\net7.0\refint\Web.API.dll
 C:\laragon\www\M2\Delivery\Web.API\obj\Debug\net7.0\Web.API.pdb
 C:\laragon\www\M2\Delivery\Web.API\obj\Debug\net7.0\Web.API.genruntimeconfig.cache
 C:\laragon\www\M2\Delivery\Web.API\obj\Debug\net7.0\ref\Web.API.dll
+C:\laragon\www\M2\Delivery\Web.API\bin\Debug\net7.0\MediatR.dll
+C:\laragon\www\M2\Delivery\Web.API\bin\Debug\net7.0\MediatR.Contracts.dll
