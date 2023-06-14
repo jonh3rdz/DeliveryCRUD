@@ -1,0 +1,12 @@
+C:\laragon\www\M2\Delivery\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\laragon\www\M2\Delivery\Domain\bin\Debug\net7.0\Domain.dll
+C:\laragon\www\M2\Delivery\Domain\bin\Debug\net7.0\Domain.pdb
+C:\laragon\www\M2\Delivery\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\laragon\www\M2\Delivery\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\M2\Delivery\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\laragon\www\M2\Delivery\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\laragon\www\M2\Delivery\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\laragon\www\M2\Delivery\Domain\obj\Debug\net7.0\Domain.dll
+C:\laragon\www\M2\Delivery\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\laragon\www\M2\Delivery\Domain\obj\Debug\net7.0\Domain.pdb
+C:\laragon\www\M2\Delivery\Domain\obj\Debug\net7.0\ref\Domain.dll
