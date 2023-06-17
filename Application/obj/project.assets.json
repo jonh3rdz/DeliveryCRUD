@@ -714,11 +714,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "c:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj",
+      "projectPath": "C:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\jrodr\\.nuget\\packages\\",
-      "outputPath": "c:\\laragon\\www\\M2\\Delivery\\Application\\obj\\",
+      "outputPath": "C:\\laragon\\www\\M2\\Delivery\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jrodr\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -733,8 +733,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj"
+            "C:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj"
             }
           }
         }

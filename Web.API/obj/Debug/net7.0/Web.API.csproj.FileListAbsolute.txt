@@ -39,3 +39,8 @@ C:\laragon\www\M2\Delivery\Web.API\obj\Debug\net7.0\Web.API.genruntimeconfig.cac
 C:\laragon\www\M2\Delivery\Web.API\obj\Debug\net7.0\ref\Web.API.dll
 C:\laragon\www\M2\Delivery\Web.API\bin\Debug\net7.0\MediatR.dll
 C:\laragon\www\M2\Delivery\Web.API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\laragon\www\M2\Delivery\Web.API\bin\Debug\net7.0\FluentValidation.dll
+C:\laragon\www\M2\Delivery\Web.API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\laragon\www\M2\Delivery\Web.API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\laragon\www\M2\Delivery\Web.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\laragon\www\M2\Delivery\Web.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
