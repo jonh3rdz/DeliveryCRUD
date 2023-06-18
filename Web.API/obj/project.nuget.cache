@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kxkhvtLxQl2qHNMk5L+2ApFXm3RI1o1X9kM0ZudtsQ07oy53F/+LyH1p9JzAkVaq+X0tb7vGBuCNlrJ0dJMLAg==",
+  "dgSpecHash": "IM9W2LcP5ycZ6RdVroVH8D9VayvCf0aczEwiq8tMUJjv6oN5WyJQWBG/hlpnT3HjIDDxIhw0HjlfI9lCqMjhuQ==",
   "success": true,
-  "projectFilePath": "c:\\laragon\\www\\M2\\Delivery\\Web.API\\Web.API.csproj",
+  "projectFilePath": "C:\\laragon\\www\\M2\\Delivery\\Web.API\\Web.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jrodr\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\jrodr\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

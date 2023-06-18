@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "POvSEUgPMDypSeoSPQK9uxwa2r/tCu1z4W7/mHpBVA/VRA15OcZSxDETDbhoO/JoWETJCTenZTeuqkEgqHEfuQ==",
+  "dgSpecHash": "9g/jsUBqk60z/YXCuMeSLyIz4QUjKg6X3GnYRg49W0sfl4eehYUJxSGpRzo4agNBCT7dzUu5L0Ep+VMvmsWyoQ==",
   "success": true,
-  "projectFilePath": "c:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jrodr\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
     "C:\\Users\\jrodr\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",

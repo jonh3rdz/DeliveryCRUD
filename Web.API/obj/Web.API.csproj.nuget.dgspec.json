@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\laragon\\www\\M2\\Delivery\\Web.API\\Web.API.csproj": {}
+    "C:\\laragon\\www\\M2\\Delivery\\Web.API\\Web.API.csproj": {}
   },
   "projects": {
-    "c:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj": {
+    "C:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "c:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj",
+        "projectPath": "C:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\jrodr\\.nuget\\packages\\",
-        "outputPath": "c:\\laragon\\www\\M2\\Delivery\\Application\\obj\\",
+        "outputPath": "C:\\laragon\\www\\M2\\Delivery\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jrodr\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj"
+              "C:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "c:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj": {
+    "C:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj",
+        "projectPath": "C:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\jrodr\\.nuget\\packages\\",
-        "outputPath": "c:\\laragon\\www\\M2\\Delivery\\Domain\\obj\\",
+        "outputPath": "C:\\laragon\\www\\M2\\Delivery\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jrodr\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -146,14 +146,14 @@
         }
       }
     },
-    "c:\\laragon\\www\\M2\\Delivery\\Infraestructure\\Infraestructure.csproj": {
+    "C:\\laragon\\www\\M2\\Delivery\\Infraestructure\\Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\laragon\\www\\M2\\Delivery\\Infraestructure\\Infraestructure.csproj",
+        "projectUniqueName": "C:\\laragon\\www\\M2\\Delivery\\Infraestructure\\Infraestructure.csproj",
         "projectName": "Infraestructure",
-        "projectPath": "c:\\laragon\\www\\M2\\Delivery\\Infraestructure\\Infraestructure.csproj",
+        "projectPath": "C:\\laragon\\www\\M2\\Delivery\\Infraestructure\\Infraestructure.csproj",
         "packagesPath": "C:\\Users\\jrodr\\.nuget\\packages\\",
-        "outputPath": "c:\\laragon\\www\\M2\\Delivery\\Infraestructure\\obj\\",
+        "outputPath": "C:\\laragon\\www\\M2\\Delivery\\Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jrodr\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -168,11 +168,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj": {
-                "projectPath": "c:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj"
+              "C:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj": {
+                "projectPath": "C:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj"
               },
-              "c:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj"
+              "C:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\laragon\\www\\M2\\Delivery\\Domain\\Domain.csproj"
               }
             }
           }
@@ -220,14 +220,14 @@
         }
       }
     },
-    "c:\\laragon\\www\\M2\\Delivery\\Web.API\\Web.API.csproj": {
+    "C:\\laragon\\www\\M2\\Delivery\\Web.API\\Web.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\laragon\\www\\M2\\Delivery\\Web.API\\Web.API.csproj",
+        "projectUniqueName": "C:\\laragon\\www\\M2\\Delivery\\Web.API\\Web.API.csproj",
         "projectName": "Web.API",
-        "projectPath": "c:\\laragon\\www\\M2\\Delivery\\Web.API\\Web.API.csproj",
+        "projectPath": "C:\\laragon\\www\\M2\\Delivery\\Web.API\\Web.API.csproj",
         "packagesPath": "C:\\Users\\jrodr\\.nuget\\packages\\",
-        "outputPath": "c:\\laragon\\www\\M2\\Delivery\\Web.API\\obj\\",
+        "outputPath": "C:\\laragon\\www\\M2\\Delivery\\Web.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jrodr\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -242,11 +242,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj": {
-                "projectPath": "c:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj"
+              "C:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj": {
+                "projectPath": "C:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj"
               },
-              "c:\\laragon\\www\\M2\\Delivery\\Infraestructure\\Infraestructure.csproj": {
-                "projectPath": "c:\\laragon\\www\\M2\\Delivery\\Infraestructure\\Infraestructure.csproj"
+              "C:\\laragon\\www\\M2\\Delivery\\Infraestructure\\Infraestructure.csproj": {
+                "projectPath": "C:\\laragon\\www\\M2\\Delivery\\Infraestructure\\Infraestructure.csproj"
               }
             }
           }
