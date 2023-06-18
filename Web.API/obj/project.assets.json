@@ -46,6 +46,19 @@
           }
         }
       },
+      "ErrorOr/1.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "FluentValidation/11.5.2": {
         "type": "package",
         "compile": {
@@ -1347,6 +1360,7 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Domain": "1.0.0",
+          "ErrorOr": "1.2.1",
           "FluentValidation": "11.5.2",
           "FluentValidation.AspNetCore": "11.3.0",
           "MediatR": "12.0.1",
@@ -1363,6 +1377,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "ErrorOr": "1.2.1",
           "MediatR": "12.0.1"
         },
         "compile": {
@@ -1428,6 +1443,22 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "ErrorOr/1.2.1": {
+      "sha512": "5xcbQErEPQKq2z/sLwSaFPX3T2G7x4ISX0us0X7jSxXSQT/wlfOOhw4knPUN/GWOf2strhuzdvRA36JViwvu+A==",
+      "type": "package",
+      "path": "erroror/1.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "erroror.1.2.1.nupkg.sha512",
+        "erroror.nuspec",
+        "icon-square.png",
+        "lib/net6.0/ErrorOr.dll",
+        "lib/net6.0/ErrorOr.xml",
+        "lib/netstandard2.0/ErrorOr.dll",
+        "lib/netstandard2.0/ErrorOr.xml"
       ]
     },
     "FluentValidation/11.5.2": {
@@ -4175,6 +4206,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Application >= 1.0.0",
+      "ErrorOr >= 1.2.1",
       "Infraestructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.5",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.7",
@@ -4187,11 +4219,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\laragon\\www\\M2\\Delivery\\Web.API\\Web.API.csproj",
+      "projectUniqueName": "c:\\laragon\\www\\M2\\Delivery\\Web.API\\Web.API.csproj",
       "projectName": "Web.API",
-      "projectPath": "C:\\laragon\\www\\M2\\Delivery\\Web.API\\Web.API.csproj",
+      "projectPath": "c:\\laragon\\www\\M2\\Delivery\\Web.API\\Web.API.csproj",
       "packagesPath": "C:\\Users\\jrodr\\.nuget\\packages\\",
-      "outputPath": "C:\\laragon\\www\\M2\\Delivery\\Web.API\\obj\\",
+      "outputPath": "c:\\laragon\\www\\M2\\Delivery\\Web.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jrodr\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4206,11 +4238,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj": {
-              "projectPath": "C:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj"
+            "c:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj": {
+              "projectPath": "c:\\laragon\\www\\M2\\Delivery\\Application\\Application.csproj"
             },
-            "C:\\laragon\\www\\M2\\Delivery\\Infraestructure\\Infraestructure.csproj": {
-              "projectPath": "C:\\laragon\\www\\M2\\Delivery\\Infraestructure\\Infraestructure.csproj"
+            "c:\\laragon\\www\\M2\\Delivery\\Infraestructure\\Infraestructure.csproj": {
+              "projectPath": "c:\\laragon\\www\\M2\\Delivery\\Infraestructure\\Infraestructure.csproj"
             }
           }
         }
@@ -4225,6 +4257,10 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "ErrorOr": {
+            "target": "Package",
+            "version": "[1.2.1, )"
+          },
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
             "version": "[7.0.5, )"
