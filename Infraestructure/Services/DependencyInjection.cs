@@ -23,10 +23,10 @@ public static class DependencyInjection
 
         services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("Database")));
 
-        services.AddScoped<IApplicationDbContext>(sp => 
+        services.AddScoped<IApplicationDbContext>(sp =>
                 sp.GetRequiredService<ApplicationDbContext>());
 
-        services.AddScoped<IUnitOfWork>(sp => 
+        services.AddScoped<IUnitOfWork>(sp =>
                 sp.GetRequiredService<ApplicationDbContext>());
 
         services.AddScoped<ICustomerRepository, CustomerRepository>();

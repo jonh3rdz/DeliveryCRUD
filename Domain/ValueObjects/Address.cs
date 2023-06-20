@@ -30,4 +30,23 @@ public partial record Address
 
         return new Address(country, line1, line2, city, state, zipCode);
     }
+    public static List<Address> GetAll()
+    {
+        return new List<Address>();
+    }
+
+    public static Address? GetById(Guid id)
+    {
+        return null;
+    }
+
+    public static bool Delete(Guid id)
+    {
+        return true;
+    }
+
+    public bool Update()
+    {
+        return true;
+    }
 }

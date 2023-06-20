@@ -11,12 +11,42 @@ public partial record PhoneNumber
 
     public static PhoneNumber? Create(string value)
     {
-        if(string.IsNullOrEmpty(value) || !PhoneNumberRegex().IsMatch(value) || value.Length != DefaultLenght)
+        if (string.IsNullOrEmpty(value) || !PhoneNumberRegex().IsMatch(value) || value.Length != DefaultLenght)
         {
             return null;
         }
 
         return new PhoneNumber(value);
+    }
+
+    // public static PhoneNumber? Update(PhoneNumber phoneNumber, string value)
+    // {
+    //     if (phoneNumber is null || string.IsNullOrEmpty(value) || !PhoneNumberRegex().IsMatch(value) || value.Length != DefaultLenght)
+    //     {
+    //         return null;
+    //     }
+
+    //     return new PhoneNumber(value);
+    // }
+
+    public static List<PhoneNumber> GetAll()
+    {
+        return new List<PhoneNumber>();
+    }
+
+    public static PhoneNumber? GetById(Guid id)
+    {
+        return null;
+    }
+
+    public static bool Delete(Guid id)
+    {
+        return true;
+    }
+
+    public bool Update()
+    {
+        return true;
     }
 
     public string Value { get; init; }
